@@ -1,0 +1,6 @@
+{
+  "appId": "com.danna.dangronito",
+  "appName": "Cofre de Danna",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
