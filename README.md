@@ -2,7 +2,7 @@
 
 Herramienta para Dungeon Masters: bestiario de enemigos, generador de botín según el nivel de desafío y bandeja de dados. Funciona en el navegador (responsivo) y como app Android con CapacitorJS.
 
-- **Demo web (Vercel):** _pega aquí tu enlace de Vercel_
+- **Demo web (Vercel):** https://dangronito.vercel.app/
 - **APK:** disponible en la sección [Releases](../../releases) del repositorio.
 
 ## Tecnologías
