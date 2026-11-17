@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Dangronito</string>
+    <string name="title_activity_main">Dangronito</string>
+    <string name="package_name">com.danna.dangronito</string>
+    <string name="custom_url_scheme">com.danna.dangronito</string>
+</resources>
